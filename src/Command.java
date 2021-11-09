@@ -138,7 +138,7 @@ class Editor {
         buttons.add(ctrlV);
         buttons.add(ctrlZ);
         content.add(buttons);
-        frame.setSize(450, 200);
+        frame.setSize(350, 245);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
